@@ -21,7 +21,7 @@ Module to enable hunters and warlocks to start with a pet/minion
 ```
 
 ## Edit module configuration (optional)
-If you need to change the module configuration, go to your server configuration folder (where your worldserver or worldserver.exe is), copy StartingPet.conf.dist to StartingPet.conf and edit that new file.
+If you need to change the module configuration, go to your server configuration folder (where your worldserver or worldserver.exe is), copy mod_startingpet.conf.dist to mod_startingpet.conf and edit that new file.
 
 ## Credits
 - Module for AzerothCore created by [Gozzim](https://github.com/Gozzim)
