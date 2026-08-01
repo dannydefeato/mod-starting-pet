@@ -11,8 +11,9 @@ Module to enable hunters and warlocks to start with a pet/minion
 - Announcement of enabled module on login
 - Hunters start with a configurable race-themed pet
 - Random pet name
-- Hunters start with Call Pet, Revive Pet, Eyes of the Beast, Beast Lore,
-  Dismiss Pet, Mend Pet, and Feed Pet
+- Hunters start with Call Pet, Revive Pet, Dismiss Pet, and Feed Pet
+- Mend Pet, Eyes of the Beast, Beast Lore, and Tame Beast retain their normal
+  class progression
 - Hunter pets receive Growl rank 1 with autocast enabled
 - Tame Beast remains part of the normal level-10 Hunter quest chain
 - Warlocks start with an Imp by default; the minion mask remains configurable

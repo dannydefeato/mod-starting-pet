@@ -23,7 +23,7 @@ public:
 private:
     std::string const _vowels = "aeiou";
     std::string const _consonants = "bcdfghjklmnpqrstvw";
-    std::vector<uint32> const _hunterPetSpells = {136, 883, 982, 1002, 1462, 2641, 6991};
+    std::vector<uint32> const _hunterPetSpells = {883, 982, 2641, 6991};
     std::vector<uint32> const _warlockSpells = {688, 697, 712, 691, 30146, 1120};
 };
 

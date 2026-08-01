@@ -21,7 +21,6 @@
 enum HunterVars
 {
     SPELL_TAME_BEAST    = 13481,
-    SPELL_MEND_PET      = 136,
     SPELL_GROWL         = 2649,
     PET_MAX_HAPPINESS   = 1048000
 };
