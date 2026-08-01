@@ -16,6 +16,7 @@
  */
 
 #include "StartingPet.h"
+#include "CharmInfo.h"
 
 enum HunterVars
 {
@@ -127,7 +128,10 @@ void StartingPet::CreateConfiguredPet(Player* player, bool petName, uint32 entry
         pet->learnSpell(SPELL_GROWL);
 
     if (SpellInfo const* growlInfo = sSpellMgr->GetSpellInfo(SPELL_GROWL))
+    {
         pet->ToggleAutocast(growlInfo, true);
+        pet->GetCharmInfo()->SetSpellAutocast(growlInfo, true);
+    }
 
     pet->SavePetToDB(PET_SAVE_AS_CURRENT);
     player->PetSpellInitialize();
