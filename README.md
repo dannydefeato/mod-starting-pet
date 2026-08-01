@@ -15,7 +15,7 @@ Module to enable hunters and warlocks to start with a pet/minion
   Dismiss Pet, Mend Pet, and Feed Pet
 - Hunter pets receive Growl rank 1 with autocast enabled
 - Tame Beast remains part of the normal level-10 Hunter quest chain
-- Warlocks start with a minion and according spells
+- Warlocks start with an Imp by default; the minion mask remains configurable
 
 ### Default Hunter pets
 

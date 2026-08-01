@@ -69,6 +69,6 @@ StartingPet.RandName = 1
 #       Example:    41 - Imp, Felhunter, Drain Soul
 #                    0 - disabled
 #
-#       Default:    47
+#       Default:    1 (Imp only)
 
-StartingPet.WarlockMinion = 47
+StartingPet.WarlockMinion = 1

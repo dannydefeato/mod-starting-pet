@@ -53,7 +53,7 @@ public:
         StartingPetTroll = sConfigMgr->GetOption<uint32>("StartingPet.HunterPet.Troll", 3122);
         StartingPetBloodElf = sConfigMgr->GetOption<uint32>("StartingPet.HunterPet.BloodElf", 15649);
         StartingPetDraenei = sConfigMgr->GetOption<uint32>("StartingPet.HunterPet.Draenei", 17199);
-        StartingMinion = sConfigMgr->GetOption<int>("StartingPet.WarlockMinion", 47);
+        StartingMinion = sConfigMgr->GetOption<int>("StartingPet.WarlockMinion", 1);
     }
 };
 
