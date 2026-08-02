@@ -1,7 +1,7 @@
 # This is a module for  ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
 ## Hunter and Warlock Starting Pet
 [![core-build](https://github.com/dannydefeato/mod-starting-pet/actions/workflows/core-build.yml/badge.svg?branch=master)](https://github.com/dannydefeato/mod-starting-pet/actions/workflows/core-build.yml)
-[![CodeFactor](https://www.codefactor.io/repository/github/gozzim/mod-starting-pet/badge)](https://www.codefactor.io/repository/github/gozzim/mod-starting-pet)
+[![CodeFactor](https://www.codefactor.io/repository/github/dannydefeato/mod-starting-pet/badge)](https://www.codefactor.io/repository/github/dannydefeato/mod-starting-pet)
 
 ## Description
 Module to enable hunters and warlocks to start with a pet/minion
